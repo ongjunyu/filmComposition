@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site 2026-04-08 11:23",
+    "name": "Assignment 2.0",
     "currentPage": "index.html",
     "theme": {
       "name": "startm5",
@@ -68,8 +68,23 @@
         "css": "'Merriweather', serif",
         "name": "Merriweather",
         "url": "https://fonts.googleapis.com/css?family=Merriweather:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Inter Tight', sans-serif",
+        "name": "Inter Tight",
+        "url": "https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
+    "favicon": false,
+    "mbrsiteDomain": "cwzxdfbide",
+    "imageResize": false,
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 33,
     "versionPublish": "6.1.12"
   },
@@ -77,11 +92,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Ong Jun Yu _ Assignment 2.0",
+        "meta_descr": "This website explores four important film composition techniques: symmetrical composition, top shots, leading lines, and low angle shots.\nEach technique helps guide the viewer’s attention, create emotion, and improve visual storytelling in films and photography.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr.jpg"
       },
       "components": [
         {
